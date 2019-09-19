@@ -1,0 +1,12 @@
+Group Members:
+1) Rajnesh Kumar Meena 13546
+2) Juganu Mantawal 13331
+
+
+How to run
+
+python pasad.py data/SA1/1.csv 5
+python pasad.py data/SA2/1.csv 10
+python pasad.py data/SA3/1.csv 9
+python pasad.py data/DA1/1.csv 15
+python pasad.py data/DA2/1.csv 5
